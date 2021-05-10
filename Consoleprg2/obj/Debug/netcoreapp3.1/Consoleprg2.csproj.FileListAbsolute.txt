@@ -1,0 +1,11 @@
+C:\Users\v\Desktop\c# programming\Consoleprg2\Consoleprg2\bin\Debug\netcoreapp3.1\Consoleprg2.exe
+C:\Users\v\Desktop\c# programming\Consoleprg2\Consoleprg2\bin\Debug\netcoreapp3.1\Consoleprg2.deps.json
+C:\Users\v\Desktop\c# programming\Consoleprg2\Consoleprg2\bin\Debug\netcoreapp3.1\Consoleprg2.runtimeconfig.json
+C:\Users\v\Desktop\c# programming\Consoleprg2\Consoleprg2\bin\Debug\netcoreapp3.1\Consoleprg2.runtimeconfig.dev.json
+C:\Users\v\Desktop\c# programming\Consoleprg2\Consoleprg2\bin\Debug\netcoreapp3.1\Consoleprg2.dll
+C:\Users\v\Desktop\c# programming\Consoleprg2\Consoleprg2\bin\Debug\netcoreapp3.1\Consoleprg2.pdb
+C:\Users\v\Desktop\c# programming\Consoleprg2\Consoleprg2\obj\Debug\netcoreapp3.1\Consoleprg2.csprojAssemblyReference.cache
+C:\Users\v\Desktop\c# programming\Consoleprg2\Consoleprg2\obj\Debug\netcoreapp3.1\Consoleprg2.AssemblyInfoInputs.cache
+C:\Users\v\Desktop\c# programming\Consoleprg2\Consoleprg2\obj\Debug\netcoreapp3.1\Consoleprg2.AssemblyInfo.cs
+C:\Users\v\Desktop\c# programming\Consoleprg2\Consoleprg2\obj\Debug\netcoreapp3.1\Consoleprg2.dll
+C:\Users\v\Desktop\c# programming\Consoleprg2\Consoleprg2\obj\Debug\netcoreapp3.1\Consoleprg2.pdb
